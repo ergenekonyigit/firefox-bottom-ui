@@ -1,4 +1,4 @@
-<h1 align="center">Firefox-Bottom-UI</h1>
+<h1 align="center">firefox-bottom-ui</h1>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/7110136/89949405-879d5f00-dc30-11ea-8776-26fdbe83be39.gif"></img></p1>
 
