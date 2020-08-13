@@ -1,6 +1,6 @@
 <h1 align="center">firefox-bottom-ui</h1>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/7110136/89949405-879d5f00-dc30-11ea-8776-26fdbe83be39.gif"></img></p1>
+<p align="center"><img src="https://user-images.githubusercontent.com/7110136/90187878-34a7e100-ddc3-11ea-89c7-8d492c43718b.gif"></img></p1>
 
 ### Steps for applying this configuration
 <ol>
