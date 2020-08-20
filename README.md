@@ -8,6 +8,6 @@
 * Inside this folder, create a folder named `chrome`
 * Put the `userChrome.css` file from this repo into the chrome folder
 * Type `about:config` into your urlbar and go to the page
-* Paste `toolkit.legacyUserProfileCustomizations.stylesheets` into the bar and set its value to true
+* Paste `toolkit.legacyUserProfileCustomizations.stylesheets` into the bar and set its value to `true`
 * Go back to `about:profiles` and click the restart normally buton
 * That should be it!
