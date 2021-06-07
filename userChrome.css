@@ -29,7 +29,7 @@
 }
 
 /* tabs area padding */
-*|*:root:not([chromehidden*="toolbar"]) #navigator-toolbox {padding-bottom: var(--tab-min-height) !important;}
+*|*:root:not([chromehidden*="toolbar"]) #navigator-toolbox {padding-bottom: 36px !important;}
 
 /* drag space */
 .titlebar-spacer[type="pre-tabs"],
@@ -46,3 +46,21 @@
 
 /* list megabar to upper side */
 #urlbar[focused]{ top: auto !important; bottom: 0px !important; }
+
+
+/* Tab: Reduce height */
+.tabbrowser-tab {
+  min-height: 24px !important;
+}
+
+/* URLBar: Fix vertical alignment */
+#urlbar[breakout=true]:not([open="true"]) {
+	--urlbar-height: 20px !important;
+	--urlbar-toolbar-height: 24px !important;
+}
+
+/* Toolbar: Reduce spacing */
+#urlbar-container {
+	--urlbar-container-height: 30px !important;
+  margin-top: 0 !important;
+}
