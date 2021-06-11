@@ -47,12 +47,6 @@
 /* list megabar to upper side */
 #urlbar[focused]{ top: auto !important; bottom: 0px !important; }
 
-
-/* Tab: Reduce height */
-.tabbrowser-tab {
-  min-height: 24px !important;
-}
-
 /* URLBar: Fix vertical alignment */
 #urlbar[breakout=true]:not([open="true"]) {
 	--urlbar-height: 20px !important;
